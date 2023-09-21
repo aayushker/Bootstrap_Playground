@@ -1,1 +1,8 @@
-/*# sourceMappingURL=index.css.map */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    color: red;
+}
